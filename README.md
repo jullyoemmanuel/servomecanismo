@@ -1,2 +1,2 @@
 # Servo
-Repositório destinado à resolução das listas da disciplina de Servomecanismo
+Repositório destinado à resolução das listas da disciplina de Servomecanismo - UFPE
